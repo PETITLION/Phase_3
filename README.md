@@ -13,4 +13,4 @@ Le modèle final identifie 83% des clients churners avec une précision de 82%, 
 - **Nom :** Lionel **PETIOTE**  
 - **Formation :** Agronomie et Data Science  
 - **Localisation :** Haïti  
-- **Contact :** [petiotelionel@gmail.com]
+- **Contact :** petiotelionel@gmail.com
